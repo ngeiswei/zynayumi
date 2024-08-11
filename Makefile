@@ -32,7 +32,7 @@ gen:
 endif
 
 debug:
-	$(MAKE) DEBUG=true	
+	$(MAKE) DEBUG=true
 
 # --------------------------------------------------------------
 
